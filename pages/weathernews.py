@@ -1,6 +1,5 @@
 import streamlit as st
 import requests, json, os
-from transformers import LukeForSequenceClassification, MLukeTokenizer
 
 api_key = "88888"
 
